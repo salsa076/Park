@@ -16,4 +16,5 @@ public class Menu extends Activity {
 
 
     }
+String a;
 }
